@@ -20,7 +20,7 @@ MCP server for SAP S/4HANA OData access. Discover services, query entities, fetc
 ## Setup
 
 ```bash
-git clone https://github.com/your-org/sap-s4-mcp-server
+git clone https://github.com/Nidhideep/sap-s4-mcp-server
 cd sap-s4-mcp-server
 npm install
 cp .env.example .env
